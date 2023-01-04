@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Kavita
 
-(![Untitled design (1)]![Mern (1)](https://user-images.githubusercontent.com/112702345/210625138-a1ee5fee-4fe0-4ac2-a326-530a5e2fb21a.png))
+(https://user-images.githubusercontent.com/112702345/210625138-a1ee5fee-4fe0-4ac2-a326-530a5e2fb21a.png)
 
 
 
