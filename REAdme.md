@@ -3,7 +3,7 @@
 
 ![kavita mali](https://i.postimg.cc/63b4XXsC/Navy-And-White-Geometric-Technology-Linked-In-Banner-2.png)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kavita13feb&theme=algolia)
 
 Skills:  / REACT / JS / HTML / CSS
 
@@ -22,5 +22,5 @@ Skills:  / REACT / JS / HTML / CSS
 
 ![contribution](https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kavita13feb&theme=algolia)
+
 
