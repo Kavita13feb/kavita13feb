@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Kavita
 
-https://i.postimg.cc/63b4XXsC/Navy-And-White-Geometric-Technology-Linked-In-Banner-2.png
+![kavita mali](https://i.postimg.cc/63b4XXsC/Navy-And-White-Geometric-Technology-Linked-In-Banner-2.png)
 
 
 
