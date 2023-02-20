@@ -7,7 +7,10 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+
+-My stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&theme=radical)
 
 
 
