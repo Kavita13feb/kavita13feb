@@ -22,4 +22,5 @@ Skills:  / REACT / JS / HTML / CSS
 
 ![contribution](https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
 
