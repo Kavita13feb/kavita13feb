@@ -5,7 +5,7 @@
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page.
 
@@ -19,3 +19,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavita13feb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kavita13feb)](https://git.io/streak-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kavita13feb)](https://github.com/anuraghazra/github-readme-stats)
