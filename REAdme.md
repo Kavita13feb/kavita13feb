@@ -19,5 +19,6 @@ Skills:  / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavita13feb&layout=compact)](https://github.com/kavita13feb/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kavita13feb)](https://git.io/streak-stats)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kavita13feb&layout=compact&theme=shades-of-purple)
 
 
