@@ -15,7 +15,7 @@ Skills:  <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=flat" />
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=flat" />
 
 
 - 🔭 I’m currently working on this page.
