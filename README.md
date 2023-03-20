@@ -14,7 +14,7 @@ Skills:  <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=flat" />
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kavita13feb&theme=tokyonight)](https://git.io/streak-stats)
 
 my portfoliyo : https://kavita13feb.github.io/
 
