@@ -14,7 +14,7 @@ Skills:  <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=flat" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kavita13feb&theme=tokyonight)](https://git.io/streak-stats)
+
 
 my portfoliyo : https://kavita13feb.github.io/
 
@@ -29,7 +29,7 @@ my portfoliyo : https://kavita13feb.github.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavita13feb&layout=compact)](https://github.com/kavita13feb/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kavita13feb)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kavita13feb&theme=tokyonight)](https://git.io/streak-stats)
 
 ![contribution](https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight)
 
