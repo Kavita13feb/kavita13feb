@@ -24,7 +24,6 @@ my portfoliyo : https://kavita13feb.github.io/
 ###
  <img src="https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavita13feb)](https://github.com/kavita13feb/github-readme-stats)
 
 
 
