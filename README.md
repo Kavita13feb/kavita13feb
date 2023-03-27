@@ -24,13 +24,11 @@ my portfoliyo : https://kavita13feb.github.io/
 ###
  <img src="https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight" />
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita13feb&layout=compact&theme=shades-of-purple"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita13feb&layout=compact&theme=shades-of-purple" />
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavita13feb&layout=compact)](https://github.com/kavita13feb/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kavita13feb&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kavita13feb&theme=tokyonight" />
+           
+         
 
 ![contribution](https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight)
 
