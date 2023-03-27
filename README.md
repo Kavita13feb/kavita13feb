@@ -24,7 +24,7 @@ my portfoliyo : https://kavita13feb.github.io/
 ###
  <img src="https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight" />
 
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavita13feb&layout=compact&theme=shades-of-purple"/>
 
 
 
