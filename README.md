@@ -21,12 +21,8 @@ my portfoliyo : https://kavita13feb.github.io/
 - 🔭 I’m currently working on this page.
 
 -My stats:
-          <img id="github-stats-card"
-            alt="Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight"
-            // height="192px"
-            width={"60%"}
-          />
+###
+ <img src="https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&count_private=true&theme=tokyonight" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavita13feb&show_icons=true&theme=radical)
 
