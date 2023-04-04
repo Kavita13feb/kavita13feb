@@ -1,4 +1,4 @@
-
+[![Navy-And-White-Geometric-Technology-Linked-In-Banner-3.png](https://i.postimg.cc/VNFb7mTh/Navy-And-White-Geometric-Technology-Linked-In-Banner-3.png)](https://postimg.cc/Z9CRntJP)
 ### Hi there 👋, my name is Kavita
 
 * 🔭 I’m currently working on FRONTEND and BACKEND
@@ -9,7 +9,8 @@
 
 
 
-Skills:  <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" />
+###
+Technical Skills :  <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/React.JS-61DAFB?logo=React&logoColor=white&style=flat" />
