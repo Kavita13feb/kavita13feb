@@ -2,7 +2,6 @@
 ### Hi there 👋, my name is Kavita
 
 * 🔭 I’m currently working on FRONTEND and BACKEND
-* 🌱 I’m currently learning MERN at Masai School
 * 💬 Ask me about React
 * 🥇Have a look at my portfoliyo : https://kavita13feb.github.io/
 
