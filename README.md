@@ -1,4 +1,4 @@
-[![Navy-And-White-Geometric-Technology-Linked-In-Banner-3.png](https://i.postimg.cc/VNFb7mTh/Navy-And-White-Geometric-Technology-Linked-In-Banner-3.png)](https://postimg.cc/Z9CRntJP)
+
 ### Hi there 👋, my name is Kavita
 
 * 🔭 I’m currently working on FRONTEND and BACKEND
